@@ -1,1 +1,1 @@
-# PolynomailCalculator
+# PolynomialCalculator
